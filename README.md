@@ -7,6 +7,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Solution link](#Solution-link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -19,6 +20,10 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
+
+### Solution link
+
+[Clique aqui para ir para o projeto](https://christian-m-silva.github.io/Preview-card/)
 
 ### Screenshot
 
